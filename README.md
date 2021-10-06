@@ -19,7 +19,7 @@ Participante de projeto Nacional na criação e desenvolvimento de Dashboards pa
 
 
 ## Projetos:
-Veja os meus projetos publicados:
+Veja os meus artigos/projetos publicados:
 
 * **Breve introdução ao Python:** https://bit.ly/3AmK6Vr
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
