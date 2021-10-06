@@ -21,7 +21,7 @@ Participante de projeto Nacional na criação e desenvolvimento de Dashboards pa
 ## Projetos:
 Veja os meus projetos publicados:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Breve introdução ao Python:** https://github.com/guilherme-beserra/DataScience/blob/master/Made_in_China.ipynb
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
 * **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
 * **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
